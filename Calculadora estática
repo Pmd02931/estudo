@@ -1,0 +1,14 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+   int nasc,hoje, idade;
+   nasc=2001;
+   hoje=2020;
+   idade=hoje-nasc;
+   printf("O Pedro tem %d anos",idade);
+   
+   return 0;
+}
