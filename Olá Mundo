@@ -1,2 +1,8 @@
-# Nos meus primeiros projetos, usarei o Portugol;
+#include <stdio.h>
 
+int main()
+{
+    printf("Olá mundo");
+
+    return 0;
+}
